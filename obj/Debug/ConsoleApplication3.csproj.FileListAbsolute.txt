@@ -1,0 +1,5 @@
+C:\Users\dj\Desktop\Temp\Forensics_1\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\dj\Desktop\Temp\Forensics_1\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\dj\Desktop\Temp\Forensics_1\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\dj\Desktop\Temp\Forensics_1\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\dj\Desktop\Temp\Forensics_1\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
